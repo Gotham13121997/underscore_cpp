@@ -1,10 +1,10 @@
 # underscore_cpp
 Inspired by underscore.js <br>
-<pre>
+```
 ┬ ┬┌┐┌┌┬┐┌─┐┬─┐┌─┐┌─┐┌─┐┬─┐┌─┐    ┌─┐┌─┐┌─┐
 │ ││││ ││├┤ ├┬┘└─┐│  │ │├┬┘├┤     │  ├─┘├─┘
 └─┘┘└┘─┴┘└─┘┴└─└─┘└─┘└─┘┴└─└─┘────└─┘┴  ┴  
-</pre>
+```
 Implementation of: <br> 
 - [x] each
 - [x] transform
